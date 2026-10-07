@@ -1,26 +1,18 @@
-# Hi, I'm Oualid Ouarrach 👋
+<!--
+**ualide/ualide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Computer Engineer | Embedded Systems | Software Engineering
+Here are some ideas to get you started:
 
-🎓 Master's in Computer Engineering & Embedded Systems  
-💻 Interested in Embedded Systems, IoT, Software Development & Automation  
-🌍 Open to opportunities in Germany & Morocco
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
-
-### 🛠️ Technologies & Tools
-
-- C / C++
-- Python
-- Java
-- Embedded Systems
-- IoT
-- Git & GitHub
-- Linux
-- Microcontrollers
-
----
-
-### 📫 Connect with me
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/ualide)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=I'm+Oualid+Ouarrach;Computer+Engineering+%26+Embedded+Systems;Master's+student" alt="Typing SVG" />
+</a>
