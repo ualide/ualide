@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=I'm+Oualid+Ouarrach;Computer+Engineering+&+Embedded+systems;Master+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&width=435&lines=I'm+Oualid+Ouarrach;Computer+Engineering;&+Embedded+systems;Master+student" alt="Typing SVG" /></a>
